@@ -15,7 +15,7 @@ body {
   display: none
 }
 
-.slick {
+.slick .parent{
   display: none;
-  
+
 }
